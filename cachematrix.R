@@ -18,3 +18,4 @@ cacheSolve <- function(x, ...) {
 ## One more edit.
 ## And another.
 ## One more.
+## Number 6.
